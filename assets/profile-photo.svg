@@ -1,0 +1,19 @@
+<svg width="600" height="700" viewBox="0 0 600 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="60" x2="520" y2="660" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1B2A"/>
+      <stop offset="1" stop-color="#13263F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="300" y1="150" x2="300" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#64E6D1"/>
+      <stop offset="1" stop-color="#7198FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="700" rx="42" fill="url(#bg)"/>
+  <circle cx="300" cy="240" r="140" fill="url(#accent)" fill-opacity="0.18"/>
+  <path d="M300 179C343.078 179 378 213.922 378 257V307C378 350.078 343.078 385 300 385C256.922 385 222 350.078 222 307V257C222 213.922 256.922 179 300 179Z" fill="#D9E6FF" fill-opacity="0.9"/>
+  <path d="M220 515C236.369 451.517 267.45 423 300 423C332.55 423 363.631 451.517 380 515V610H220V515Z" fill="#D9E6FF" fill-opacity="0.9"/>
+  <path d="M197 570C230.573 520.084 263.898 495.75 300 495.75C336.102 495.75 369.427 520.084 403 570V610H197V570Z" fill="#64E6D1" fill-opacity="0.7"/>
+  <rect x="110" y="560" width="380" height="52" rx="26" fill="#101827" fill-opacity="0.7"/>
+  <text x="300" y="592" text-anchor="middle" fill="#F3F6FC" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1.5">ADD YOUR PHOTO</text>
+</svg>
